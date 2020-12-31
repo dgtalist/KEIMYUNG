@@ -11,9 +11,11 @@
 
 5. Install Ubuntu 16.04
  -> https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview
+ 
+6. hangul setup
 
 
 [ trouble shooting ]
-1. reboot 이나 poweroff 시 오작동 문제
+1. reboot 이나 poweroff 시 오작동 문제 : sudo gedit /etc/default/grub
  -> https://forum.ubuntu-kr.org/viewtopic.php?t=10134
  -> https://ghostweb.tistory.com/824
