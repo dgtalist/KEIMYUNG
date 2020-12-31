@@ -13,6 +13,11 @@
  -> https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview
  
 6. hangul setup
+ -> t : sudo apt-get update
+ -> t : sudo apt-get install ibus ibus-hangul
+ -> language support : 한국어 / ibus 설정
+ -> keyboard : typing 에서 Ctrl+space
+ -> text entry : Korean(hangul)(IBUS) 추가하고 스위칭은 Crtl+space
 
 
 [ trouble shooting ]
