@@ -1,0 +1,19 @@
+1. Download and Install Ubuntu on PC
+ -> https://releases.ubuntu.com/16.04.7/ubuntu-16.04.7-desktop-amd64.iso
+ -> https://releases.ubuntu.com/16.04.7/ubuntu-16.04.6-desktop-i386.iso
+
+2. Download Win32DiskImager
+ -> https://sourceforge.net/projects/win32diskimager/files/latest/download
+
+3. Image Write
+
+4. RemotePC booting setup : USB booting (F12)
+
+5. Install Ubuntu 16.04
+ -> https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview
+
+
+[ trouble shooting ]
+1. reboot 이나 poweroff 시 오작동 문제
+ -> https://forum.ubuntu-kr.org/viewtopic.php?t=10134
+ -> https://ghostweb.tistory.com/824
