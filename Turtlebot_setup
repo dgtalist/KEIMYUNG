@@ -1,3 +1,5 @@
+[PC setup]
+
 1. Download and Install Ubuntu on PC
  -> https://releases.ubuntu.com/16.04.7/ubuntu-16.04.7-desktop-amd64.iso
  -> https://releases.ubuntu.com/16.04.7/ubuntu-16.04.6-desktop-i386.iso
@@ -20,7 +22,26 @@
  -> text entry : Korean(hangul)(IBUS) 추가하고 스위칭은 Crtl+space
 
 
+[SBC setup]
+
+1. Download and Install Raspbian on ROBOT
+ -> http://www.robotis.com/service/download.php?no=1738
+
+2. Download BalenaEtcher
+ -> https://www.balena.io/etcher/
+
+3. Image Write
+
+4. Install Raspbian for Turtlebot
+
+
+
 [ trouble shooting ]
+
 1. reboot 이나 poweroff 시 오작동 문제 : sudo gedit /etc/default/grub
  -> https://forum.ubuntu-kr.org/viewtopic.php?t=10134
  -> https://ghostweb.tistory.com/824
+
+2. Raspberry PI 에 OpenCR 펌웨어 설치시 업그레이드 꼭 진행 :sudo apt-get upgrade
+
+
