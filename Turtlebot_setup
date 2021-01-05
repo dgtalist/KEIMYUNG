@@ -19,7 +19,7 @@
  -> t : sudo apt-get install ibus ibus-hangul
  -> language support : 한국어 / ibus 설정
  -> keyboard : typing 에서 Ctrl+space
- -> text entry : Korean(hangul)(IBUS) 추가하고 스위칭은 Crtl+space
+ -> text entry : Korean(hangul)(IBUS) 추가하고 스위칭은 Shift+space
 
 
 [SBC setup]
