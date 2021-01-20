@@ -1,5 +1,11 @@
 1. 카메라 디바이스 사용(=name 설정)
+$ sudo apt-get install ros-kinetic-uvc-camera
+$ sudo apt-get install ros-kinetic-image-*
+$ sudo apt-get install ros-kinetic-rqt-image-view
+$ ls /dev/
+$ lsusb
 $ rosrun uvc_camera uvc_camera_node
+$ rqt_image_view image:=/image_raw
 
 $ rosrun camera_package camera_node __name:=front _device:=/dev/video0
 $ rosrun camera_package camera_node __name:=left _device:=/dev/video1
