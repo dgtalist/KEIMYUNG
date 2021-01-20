@@ -2,3 +2,4 @@
 $ rosrun camera_package camera_node __name:=front _device:=/dev/video0
 $ rosrun camera_package camera_node __name:=left _device:=/dev/video1
 $ rosrun camera_package camera_node __name:=right _device:=/dev/video2
+$ rosrun rqt_image_view rqt_image_view image:=/dev/video3
